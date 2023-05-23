@@ -1,1 +1,4 @@
 # Evolution-Simulation
+This project simulates evolution of single celled organisms in Unity. This single celled organisms have some features such as optimum temperature, size, speed, etc. When this organisms split into two new organism genetic code mutates. This mutation can be beneficial or not for organism. If it is beneficial for organism, organism going to survive and split more easily and transfer the genetic code that makes it advantageous to its children. In this way organisms in the population going to be more advantageous over time. This is the process of evolution that discovered and explained by Charles Darwin. In this simulation you can change the environmental conditions and cause an extinction event and watch how organisms adapt this new enviroment.
+
+More information about evolution: https://en.wikipedia.org/wiki/Evolution
